@@ -1,0 +1,26 @@
+# Supabase CLI project configuration
+project_id = "time-machine"
+
+[functions.contribute]
+verify_jwt = true
+entrypoint = "./functions/contribute/index.js"
+
+[functions.review]
+verify_jwt = true
+entrypoint = "./functions/review/index.js"
+
+[functions.direct-edit]
+verify_jwt = true
+entrypoint = "./functions/direct-edit/index.js"
+
+[functions.archive-edit]
+verify_jwt = true
+entrypoint = "./functions/archive-edit/index.js"
+
+[functions.manage-role]
+verify_jwt = true
+entrypoint = "./functions/manage-role/index.js"
+
+[functions.reconcile-sync]
+verify_jwt = true
+entrypoint = "./functions/reconcile-sync/index.js"

@@ -1,0 +1,192 @@
+[
+  {
+    "id": "gadget-anywhere-door",
+    "name": {
+      "en": "Anywhere Door",
+      "ja": "どこでもドア"
+    },
+    "aliases": [],
+    "description": "The Anywhere Door lets you travel to almost any place instantly by simply opening it. However, it has a limited range (usually 10 light-years), can be affected by electromagnetic interference, and doesn't normally allow time travel or access to other dimensions.",
+    "howItWorks": "You simply think or choose your destination, set it on the Anywhere Door, and open it. Walk through the doorway to instantly arrive at your chosen location!",
+    "image": {
+      "url": "https://vlitzz.store/gadgets/AnywhereDoor.webp",
+      "alt": "Anywhere Door"
+    },
+    "firstAppearance": {
+      "entryId": null,
+      "note": null
+    },
+    "voiceActors": []
+  },
+  {
+    "id": "gadget-bamboo-copter",
+    "name": {
+      "en": "Take Copter",
+      "ja": "タケコプタ"
+    },
+    "aliases": [],
+    "description": "The Take-copter is a small bamboo helicopter that attaches to your head and lets you fly through the air. It's easy to use, portable, and allows you to travel without needing any vehicles.",
+    "howItWorks": "Place the Take-copter on top of your head, make sure it's attached properly😅, and switch it on. It'll start spinning and lift you into the air. Just think about where you want to go and fly!",
+    "image": {
+      "url": "https://vlitzz.store/gadgets/TakeCopter.webp",
+      "alt": "TakeCopter appearance"
+    },
+    "firstAppearance": {
+      "entryId": null,
+      "note": null
+    },
+    "voiceActors": []
+  },
+  {
+    "id": "gadget-time-machine",
+    "name": {
+      "en": "Time Machine",
+      "ja": "タイムマシン"
+    },
+    "aliases": [],
+    "description": "The Time Machine allows you to travel to different periods in the past or future. Simply choose your desired date and time, enter the machine, and let it take you to another era.",
+    "howItWorks": "Set your destination date and time using the controls, then start the Time Machine. Once activated, sit back and wait until you arrive at your chosen point in time.",
+    "image": {
+      "url": "https://vlitzz.store/gadgets/timemachine.png",
+      "alt": null
+    },
+    "firstAppearance": {
+      "entryId": null,
+      "note": null
+    },
+    "voiceActors": []
+  },
+  {
+    "id": "gadget-time-cloth",
+    "name": {
+      "en": "Time Cloth",
+      "ja": "タイムふろしき"
+    },
+    "aliases": [],
+    "description": "The Time Cloth is a special cloth that can change an object's age. Depending on which side you use, it can make things older or restore them to how they were when they were new.",
+    "howItWorks": "Place the Time Cloth over an object and rub it gently. One side makes the object older, while the other turns it back to its original state.",
+    "image": {
+      "url": "https://vlitzz.store/gadgets/TimeCloth.png",
+      "alt": null
+    },
+    "firstAppearance": {
+      "entryId": null,
+      "note": null
+    },
+    "voiceActors": []
+  },
+  {
+    "id": "gadget-memory-bread",
+    "name": {
+      "en": "Copying Toast",
+      "ja": "暗記 パン"
+    },
+    "aliases": [],
+    "description": "The Copying Toast is a gadget that lets you memorize anything written on a piece of paper. Just press it against the text, and the writing gets copied onto the toast.",
+    "howItWorks": "Place a slice of Copying Toast over the text you want to copy, press it gently, and then eat it to memorize everything written on it.",
+    "image": {
+      "url": "https://vlitzz.store/gadgets/copyToast.png",
+      "alt": null
+    },
+    "firstAppearance": {
+      "entryId": null,
+      "note": null
+    },
+    "voiceActors": []
+  },
+  {
+    "id": "gadget-translation-konjac",
+    "name": {
+      "en": "Translation Gummy",
+      "ja": "ほんやくコンニャク - Translation Konjac"
+    },
+    "aliases": [],
+    "description": "The Translation Gummy is a special candy that lets you understand and speak any language. Once eaten, it allows you to communicate with people who speak languages you don't know.",
+    "howItWorks": "Simply eat the Translation Gummy and you'll be able to understand and speak other languages for a limited time.",
+    "image": {
+      "url": "https://vlitzz.store/gadgets/translationgum.png",
+      "alt": null
+    },
+    "firstAppearance": {
+      "entryId": null,
+      "note": null
+    },
+    "voiceActors": []
+  },
+  {
+    "id": "gadget-small-light",
+    "name": {
+      "en": "Small Light",
+      "ja": "スモールライト"
+    },
+    "aliases": [],
+    "description": "The Small Light is a gadget that can shrink almost anything it shines on. It can turn large objects, animals, and even people into much smaller versions of themselves.",
+    "howItWorks": "Point the Small Light at the object or person you want to shrink and press the button. The light will reduce their size instantly",
+    "image": {
+      "url": "https://vlitzz.store/gadgets/shinylight.png",
+      "alt": null
+    },
+    "firstAppearance": {
+      "entryId": null,
+      "note": null
+    },
+    "voiceActors": []
+  },
+  {
+    "id": "gadget-big-light",
+    "name": {
+      "en": "Gadget 8",
+      "ja": null
+    },
+    "aliases": [],
+    "description": null,
+    "howItWorks": null,
+    "image": {
+      "url": null,
+      "alt": null
+    },
+    "firstAppearance": {
+      "entryId": null,
+      "note": null
+    },
+    "voiceActors": []
+  },
+  {
+    "id": "gadget-gourmet-tablecloth",
+    "name": {
+      "en": "Gadget 9",
+      "ja": null
+    },
+    "aliases": [],
+    "description": null,
+    "howItWorks": null,
+    "image": {
+      "url": null,
+      "alt": null
+    },
+    "firstAppearance": {
+      "entryId": null,
+      "note": null
+    },
+    "voiceActors": []
+  },
+  {
+    "id": "gadget-if-phone-box",
+    "name": {
+      "en": "Gadget 10",
+      "ja": null
+    },
+    "aliases": [],
+    "description": null,
+    "howItWorks": null,
+    "image": {
+      "url": null,
+      "alt": null
+    },
+    "firstAppearance": {
+      "entryId": null,
+      "note": null
+    },
+    "voiceActors": []
+  }
+]
