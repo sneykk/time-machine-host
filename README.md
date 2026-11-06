@@ -36,7 +36,7 @@ review every submission before it reaches the archive.
 
 The site is fully static. The public archive keeps working even if the
 backend is temporarily unavailable; account/contribution features degrade to
-friendly notices instead of errors.
+friendly notices instead of errors
 
 Key directories:
 
